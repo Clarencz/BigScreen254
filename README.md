@@ -55,6 +55,10 @@ A simple and responsive React application that allows you to **search for movies
 ---
 
 ## 📸 Screenshots
+<p align="center">
+  <img src="./hero.png" alt="Search Page" width="600">
+</p>
+
 
 *(Add screenshots here — optional but highly recommended)*
 
