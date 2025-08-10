@@ -27,7 +27,7 @@ A simple and responsive React application that allows you to **search for movies
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/movie-search-app.git
+   git clone https://github.com/your-username/BigScreen254.git
    cd movie-search-app
    ```
 
